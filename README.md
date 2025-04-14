@@ -2,7 +2,7 @@
 
 🧠 Computer science student at Stony Brook University<br/>
 🧑🏾‍💻 I create full-stack web applications to stay consistent<br/>
-📚 In my free time I love to read, exercise, and train in martial arts<br/>
+📚 In my free time, I love to read, exercise, and train martial arts<br/>
 
 
 ## 🌐 Socials:
@@ -18,7 +18,6 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=tahammad&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
